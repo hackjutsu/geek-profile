@@ -14,18 +14,18 @@
 
 ## Featured Projects
 
-### Original
+#### Original
 - [Lepton (~1.3k stars + ~1k users)](https://github.com/hackjutsu/Lepton): Cross-platform snipppet/note manager based on GitHub Gist
 - [HeroCards (~50 stars)](https://github.com/hackjutsu/HeroCards): Character Playing Card Maker
-- [GitHub-Ranking-FrontEnd](https://github.com/hackjutsu/Github-Ranking-FrontEnd): Activity ranking for an GitHub organiztion (Web App)
-- [GitHub-Ranking-Crawler](https://github.com/hackjutsu/Github-Ranking-Crawler): Activity ranking for an GitHub organiztion (Crawler)
+- [GitHub-Ranking-FrontEnd](https://github.com/hackjutsu/Github-Ranking-FrontEnd): Activity ranking for GitHub organization members (Web App)
+- [GitHub-Ranking-Crawler](https://github.com/hackjutsu/Github-Ranking-Crawler): Activity ranking for GitHub organization members (Crawler)
 - [Note it!](https://play.google.com/store/apps/details?id=com.gogocosmo.cosmoqiu.fire_sticker) : Android app for idea collection
 - [OCRize](https://play.google.com/store/apps/details?id=com.owlscoffeehouse.ocrize): Android app for image to text recognition based on OCR(Optical character recognition)
 - [Hexo-Theme-Next (modified)](https://github.com/hackjutsu/hexo-theme-next-modified): Customized theme for Hexo Blog Engine
 - [vim cheatsheet](https://github.com/hackjutsu/vim-cheatsheet): My personal vim cheatsheet
 - [Lorikeet](https://github.com/hackjutsu/Lorikeet): File explorer implemented in NW.js and Electron
 
-### Contributions
+#### Contributions
 - [iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next): Elegant theme for Hexo
 - [phonegap/ios-deploy](https://github.com/phonegap/ios-deploy): Install and debug iPhone apps from the command line, without using Xcode
 - [weixsong/elasticlunr.js](https://github.com/weixsong/elasticlunr.js): A search engine based on lunr.js, but more flexible and customized
@@ -35,11 +35,12 @@
 - [BitTigerInst/Project-Markdown-Table-Generator](https://github.com/BitTigerInst/Project-Markdown-Table-Generator): Generate stylish markdown/html tables based JSON
 - [gjk0090/repo-star-checker](https://github.com/gjk0090/repo-star-checker): star-worthy repos recommendation
 
-### Organizations
+#### Organizations
 - [Santa Barbara Hackerspace](https://github.com/sbhackerspace)
 - [BitTigerInst](https://github.com/BitTigerInst)
+- [Explorer Guru](https://github.com/Readme-Guru)
 
-## Contact
+## Contacts
 - [GitHub: hackjutsu](https://github.com/hackjutsu)
 - [StackOverflow: hackjutsu](http://stackoverflow.com/users/3697757/hackjutsu)
 - [Blog: Hackjutsu Dojo](http://hackjutsu.com/)

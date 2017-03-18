@@ -8,7 +8,9 @@ module.exports = function ({ title, content }) {
         <link rel="stylesheet" href="./css/site.css">
       </head>
       <body>
+        <div class="profile">
         ${content}
+        </div>
       </body>
     </html>
   `;

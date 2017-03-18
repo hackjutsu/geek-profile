@@ -1,7 +1,8 @@
-h1 {
-  color: red;
+h2 {
+  color: rgb(151, 0, 0);
 }
 
-body {
+.profile {
+    margin: 0 10%;
     font-family: Consolas, Menlo, Monaco, "Courier New", monospace;
 }
