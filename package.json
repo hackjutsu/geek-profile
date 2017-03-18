@@ -1,16 +1,16 @@
 {
-  "name": "projecty",
+  "name": "geek-profile",
   "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
+  "description": "A geek profile maker based on markdown.",
+  "main": "",
   "scripts": {
     "bootstrap":"pagic profile",
     "build":"cd profile && pagic build",
     "release":"npm run build; cp -rf profile/public ./docs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "CosmoX",
+  "license": "MIT",
   "devDependencies": {
     "pagic": "^0.5.0"
   }
