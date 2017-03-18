@@ -6,7 +6,7 @@
   "scripts": {
     "bootstrap":"pagic profile",
     "build":"cd profile && pagic build",
-    "release":"npm run build; cp -rf profile/public ./docs",
+    "release":"npm run build;cp -rf profile/public/* ./docs",
     "clean": "rm -rf docs; rm -rf profile/public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

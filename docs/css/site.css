@@ -2,6 +2,17 @@ h2 {
   color: rgb(151, 0, 0);
 }
 
+footer {
+    text-align: center;
+    border-top: solid 1px rgb(200,200,200);
+    padding: 20px;
+    margin: 10px;
+    margin-top: 50px;
+    font-family: Consolas, Menlo, Monaco, "Courier New", monospace;
+    font-size: 13px;
+    color: rgb(180,180,180);
+}
+
 .profile {
     margin: 0 10%;
     font-family: Consolas, Menlo, Monaco, "Courier New", monospace;
