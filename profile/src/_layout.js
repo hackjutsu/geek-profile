@@ -1,10 +1,10 @@
-module.exports = function ({ title, content }) {
+module.exports = function ({ title, content, frontMatter }) {
   return `
     <!doctype html>
     <html>
       <head>
         <!-- <title>${title}</title> -->
-        <title>Cosmo Qiu</title>
+        <title>${frontMatter.title}</title>
         <link rel="stylesheet" href="./css/site.css">
       </head>
       <body>
@@ -12,7 +12,7 @@ module.exports = function ({ title, content }) {
         ${content}
         </div>
         <footer>
-           Like this page? <a href="https://github.com/hackjutsu/geek-profile">Fork me to create your own!</a>
+           Like this page? <a href="${frontMatter.github}">Fork me to create your own!</a>
         </footer>
       </body>
     </html>

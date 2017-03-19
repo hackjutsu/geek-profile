@@ -1,3 +1,8 @@
+---
+title: Cosmo Qiu
+github: https://github.com/hackjutsu/geek-profile
+---
+
 ## Profile
 #### Cosmo Qiu
 >An inventor, product maker and problem solver adept at programming
@@ -12,7 +17,7 @@
 - Road to GitHub (comming soon)
 - [Agile Development based on Kanban](http://hackjutsu.com/2016/02/12/Kanban%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91/)
 
-## Featured Projects
+## GitHub
 
 #### Original
 - [Lepton (~1.3k stars + ~1k users)](https://github.com/hackjutsu/Lepton): Cross-platform snipppet/note manager based on GitHub Gist
@@ -31,6 +36,7 @@
 - [phonegap/ios-deploy](https://github.com/phonegap/ios-deploy): Install and debug iPhone apps from the command line, without using Xcode
 - [marcbachmann/node-html-pdf](https://github.com/marcbachmann/node-html-pdf): Html to pdf converter in nodejs
 - [weixsong/elasticlunr.js](https://github.com/weixsong/elasticlunr.js): A search engine based on lunr.js, but more flexible and customized
+- [xcatliu/pagic](https://github.com/xcatliu/pagic): The easiest way to generate static html page from markdown
 - [electron/electron-apps](https://github.com/electron/electron-apps): A collection of apps built on Electron
 - [BitTigerInst/FalconCrawler](https://github.com/BitTigerInst/FalconCrawler): Web crawler for zhihu and stackOverflow
 - [BitTigerInst/Project-Markdown-Table-Generator](https://github.com/BitTigerInst/Project-Markdown-Table-Generator): Generate stylish markdown/html tables based JSON
