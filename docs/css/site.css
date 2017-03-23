@@ -17,3 +17,7 @@ footer {
     margin: 0 10%;
     font-family: Consolas, Menlo, Monaco, "Courier New", monospace;
 }
+
+p, li {
+    font-size: 14px;
+}
