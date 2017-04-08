@@ -14,13 +14,13 @@ github: https://github.com/hackjutsu/geek-profile
 
 ## Talks
 - A little LBS application (coming soon)
-- Road to GitHub (coming soon)
+- [How GitHub impacts our career life?](https://www.slideshare.net/WenzheQiu/how-github-impact-our-career-life)
 - [Agile Development based on Kanban](http://hackjutsu.com/2016/02/12/Kanban%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91/)
 
 ## GitHub
 
 #### Original
-- [Lepton (~1.4k stars + ~1k users)](https://github.com/hackjutsu/Lepton): Cross-platform snipppet/note manager based on GitHub Gist
+- [Lepton (~1.5k stars)](https://github.com/hackjutsu/Lepton): Cross-platform snipppet/note manager based on GitHub Gist
 - [HeroCards](https://github.com/hackjutsu/HeroCards): Character Playing Card Maker
 - [GitHub-Ranking-FrontEnd](https://github.com/hackjutsu/Github-Ranking-FrontEnd): Activity ranking for GitHub organization members (Web App)
 - [GitHub-Ranking-Crawler](https://github.com/hackjutsu/Github-Ranking-Crawler): Activity ranking for GitHub organization members (Crawler)
