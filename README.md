@@ -4,7 +4,7 @@ Write your profile in Markdown and publish it on GitHub Page.
 
 ## Bootstrap
 ```bash
-npm install
+yarn
 ```
 
 ## Customize your Profile
@@ -13,13 +13,13 @@ npm install
 
 ## Build
 ```bash
-npm run build
+yarn run build
 ```
 Static website will be generated at `profile/public`.
 
 ## Release
 ```bash
-npm run release
+yarn run release
 ```
 Static website will be generated and moved to `./docs`.
 Push this project to your GitHub repo's master branch and set `master branch /docs folder` as the GitHub Page source.
