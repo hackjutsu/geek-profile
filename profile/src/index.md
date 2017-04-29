@@ -21,6 +21,7 @@ github: https://github.com/hackjutsu/geek-profile
 
 #### Original
 - [Lepton (~1.5k stars)](https://github.com/hackjutsu/Lepton): Cross-platform snipppet/note manager based on GitHub Gist
+- [Pokémon Go Map](https://github.com/hackjutsu/pokemongo-map-poc): Distributed crawler system for PokemonGo map (POC)
 - [HeroCards](https://github.com/hackjutsu/HeroCards): Character Playing Card Maker
 - [GitHub-Ranking-FrontEnd](https://github.com/hackjutsu/Github-Ranking-FrontEnd): Activity ranking for GitHub organization members (Web App)
 - [GitHub-Ranking-Crawler](https://github.com/hackjutsu/Github-Ranking-Crawler): Activity ranking for GitHub organization members (Crawler)
