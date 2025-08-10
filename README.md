@@ -3,6 +3,7 @@ Write your profile in Markdown and publish it on GitHub Page.
 - Demo: http://hackjutsu.com/geek-profile/
 
 ## Bootstrap
+Make sure you have `yarn` installed. If you don't have it, install it from https://yarnpkg.com/getting-started/install
 ```bash
 yarn
 ```
