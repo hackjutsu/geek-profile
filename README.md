@@ -12,17 +12,23 @@ npm install
 - Customize your profile/CV/resume at `profile/src/index.md`.
 - Put your customized CSS in `profile/src/css/site.css`.
 
+## Develop
+```bash
+npm run dev
+```
+Local preview runs with Eleventy and watches Markdown/CSS changes.
+
 ## Build
 ```bash
 npm run build
 ```
-Static website will be generated at `profile/public`.
+Static website will be generated at `./docs`.
 
 ## Release
 ```bash
 npm run release
 ```
-Static website will be generated and moved to `./docs`.
+Static website will be generated in `./docs`.
 Push this project to your GitHub repo's master branch and set `master branch /docs folder` as the GitHub Page source.
 
 

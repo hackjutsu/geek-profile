@@ -1,13 +1,18 @@
 ---
 title: Cosmo Qiu
-github: https://github.com/hackjutsu/geek-profile
+name: Cosmo Qiu
+handle: hackjutsu
+tagline: Inventor, product maker, and problem solver adept at programming.
+description: A geeky profile page for Cosmo Qiu, featuring projects, talks, GitHub work, and contact links.
+focus: turning ideas into practical developer tools
+github: https://github.com/hackjutsu
+stackoverflow: http://stackoverflow.com/users/3697757/hackjutsu
+blog: http://hackjutsu.com/
+repo: https://github.com/hackjutsu/geek-profile
+layout: layouts/base.njk
 ---
 
-## Profile
-#### Cosmo Qiu
->An inventor, product maker and problem solver adept at programming
-
-#### Skills
+## Skills
 - Java (SDK and backend)
 - Javascript/Typescript/C++/Python
 - Anything necessary to get things done (legally and ethically)
@@ -27,7 +32,7 @@ github: https://github.com/hackjutsu/geek-profile
 - [GitHub-Ranking-Crawler](https://github.com/hackjutsu/Github-Ranking-Crawler): Activity ranking for GitHub organization members (Crawler)
 - [Note it!](https://play.google.com/store/apps/details?id=com.gogocosmo.cosmoqiu.fire_sticker) : Android app for idea collection
 - [OCRize](https://play.google.com/store/apps/details?id=com.owlscoffeehouse.ocrize): Android app for image to text recognition based on OCR(Optical character recognition)
-- [Geek Profile](https://github.com/hackjutsu/geek-profile): Geek profile maker based on Markdown and GitHub Page
+- [Geek Profile](https://github.com/hackjutsu/geek-profile): Geek profile maker based on Markdown and GitHub Pages
 - [Hexo-Theme-Next (modified)](https://github.com/hackjutsu/hexo-theme-next-modified): Customized theme for Hexo Blog Engine
 - [Awesome Bootstrap](https://github.com/hackjutsu/awesome-bootstrap): Awesome bootstrap scripts for Ubuntu/Vim/vscode/Git/shell 
 - [vim cheatsheet](https://github.com/hackjutsu/vim-cheatsheet): My personal vim cheatsheet
