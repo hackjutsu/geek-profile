@@ -4,15 +4,15 @@
   "description": "A geek profile maker based on markdown.",
   "main": "",
   "scripts": {
-    "bootstrap": "pagic profile",
-    "build": "cd profile && pagic build",
-    "release": "npm run build && test -d profile/public && cp -rf profile/public/* ./docs",
-    "clean": "rm -rf docs; rm -rf profile/public",
+    "dev": "eleventy --serve",
+    "build": "npm run clean && eleventy",
+    "release": "npm run build",
+    "clean": "rm -rf docs profile/public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "CosmoX",
   "license": "MIT",
   "devDependencies": {
-    "pagic": "^0.5.0"
+    "@11ty/eleventy": "^3.1.6"
   }
 }
