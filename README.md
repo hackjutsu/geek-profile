@@ -3,9 +3,9 @@ Write your profile in Markdown and publish it on GitHub Page.
 - Demo: http://hackjutsu.com/geek-profile/
 
 ## Bootstrap
-Make sure you have `yarn` installed. If you don't have it, install it from https://yarnpkg.com/getting-started/install
+Make sure you have the current Node.js LTS release and npm installed.
 ```bash
-yarn
+npm install
 ```
 
 ## Customize your Profile
@@ -14,13 +14,13 @@ yarn
 
 ## Build
 ```bash
-yarn run build
+npm run build
 ```
 Static website will be generated at `profile/public`.
 
 ## Release
 ```bash
-yarn run release
+npm run release
 ```
 Static website will be generated and moved to `./docs`.
 Push this project to your GitHub repo's master branch and set `master branch /docs folder` as the GitHub Page source.
