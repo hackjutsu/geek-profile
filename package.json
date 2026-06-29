@@ -4,9 +4,9 @@
   "description": "A geek profile maker based on markdown.",
   "main": "",
   "scripts": {
-    "bootstrap":"pagic profile",
-    "build":"cd profile && pagic build",
-    "release":"yarn run build && test -d profile/public && cp -rf profile/public/* ./docs",
+    "bootstrap": "pagic profile",
+    "build": "cd profile && pagic build",
+    "release": "npm run build && test -d profile/public && cp -rf profile/public/* ./docs",
     "clean": "rm -rf docs; rm -rf profile/public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
