@@ -12,45 +12,12 @@
     <link rel="stylesheet" href="css/site.css">
   </head>
   <body>
-    <header class="site-header">
-      <div class="profile-shell">
-        <div class="identity">
-          <p class="eyebrow">~/geek-profile</p>
-          <h1>{{ name or title }}</h1>
-          <p class="tagline">{{ tagline }}</p>
-          {% if github or stackoverflow or blog %}
-            <nav class="quick-links" aria-label="Profile links">
-              {% if github %}<a href="{{ github }}">GitHub</a>{% endif %}
-              {% if stackoverflow %}<a href="{{ stackoverflow }}">StackOverflow</a>{% endif %}
-              {% if blog %}<a href="{{ blog }}">Blog</a>{% endif %}
-            </nav>
-          {% endif %}
-        </div>
-        <aside class="terminal-card" aria-label="Profile summary">
-          <div class="terminal-bar">
-            <span></span>
-            <span></span>
-            <span></span>
-          </div>
-          <pre><code>$ whoami
-{{ handle or name or title }}
-
-$ focus
-{{ focus or "building useful software" }}
-
-$ status
-{{ status or "available for interesting problems" }}</code></pre>
-        </aside>
-      </div>
-    </header>
-
-    <main class="profile">
+    <div class="profile">
       {{ content | safe }}
-    </main>
+    </div>
 
-    <footer class="site-footer">
-      <span>Built with Markdown, Eleventy, and GitHub Pages.</span>
-      {% if repo %}<a href="{{ repo }}">Fork this profile</a>{% endif %}
+    <footer>
+      Like this page? {% if repo %}<a href="{{ repo }}">Fork me to create your own!</a>{% endif %}
     </footer>
   </body>
 </html>

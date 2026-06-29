@@ -12,7 +12,11 @@ repo: https://github.com/hackjutsu/geek-profile
 layout: layouts/base.njk
 ---
 
-## Skills
+## Profile
+#### Cosmo Qiu
+> An inventor, product maker and problem solver adept at programming
+
+#### Skills
 - Java (SDK and backend)
 - Javascript/Typescript/C++/Python
 - Anything necessary to get things done (legally and ethically)
