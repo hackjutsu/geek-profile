@@ -12,7 +12,7 @@ layout: layouts/base.njk
 
 #### Jordan Blake
 
-<img class="profile-avatar" src="./images/jordan-blake.png" alt="Cartoon portrait of the fictional profile owner Jordan Blake">
+<img src="./images/jordan-blake.png" alt="Cartoon portrait of the fictional profile owner Jordan Blake">
 
 > A systems engineer and product-minded problem solver who builds dependable developer tools
 
