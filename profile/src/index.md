@@ -12,6 +12,8 @@ layout: layouts/base.njk
 
 #### Rowan Chen
 
+<img class="profile-avatar" src="./images/rowan-chen.png" alt="Cartoon portrait of the fictional profile owner Rowan Chen">
+
 > A systems engineer and product-minded problem solver who builds dependable developer tools
 
 #### Skills

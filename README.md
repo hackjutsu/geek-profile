@@ -1,6 +1,11 @@
 # Geek Profile
 Write your profile in Markdown and publish it on GitHub Page.
-- Demo: http://hackjutsu.com/geek-profile/
+
+## Sample
+
+[![Geek Profile sample page](./assets/sample-profile.jpg)](https://hackjutsu.com/geek-profile/)
+
+[View the live demo](https://hackjutsu.com/geek-profile/)
 
 ## Bootstrap
 Make sure you have the current Node.js LTS release and npm installed.

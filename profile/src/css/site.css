@@ -18,6 +18,14 @@ footer {
   font-family: Consolas, Menlo, Monaco, "Courier New", monospace;
 }
 
+.profile-avatar {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border: 3px solid rgb(151, 0, 0);
+  border-radius: 50%;
+}
+
 p,
 li {
   font-size: 14px;
