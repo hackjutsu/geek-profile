@@ -3,8 +3,6 @@ Write your profile in Markdown and publish it on GitHub Page.
 
 ## Sample
 
-[![Geek Profile sample page](./assets/sample-profile.jpg)](https://hackjutsu.com/geek-profile/)
-
 [View the live demo](https://hackjutsu.com/geek-profile/)
 
 ## Bootstrap
