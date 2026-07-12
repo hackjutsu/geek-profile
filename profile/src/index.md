@@ -1,64 +1,63 @@
 ---
-title: Cosmo Qiu
-name: Cosmo Qiu
-handle: hackjutsu
-tagline: Inventor, product maker, and problem solver adept at programming.
-description: A geeky profile page for Cosmo Qiu, featuring projects, talks, GitHub work, and contact links.
-focus: turning ideas into practical developer tools
-github: https://github.com/hackjutsu
-stackoverflow: http://stackoverflow.com/users/3697757/hackjutsu
-blog: http://hackjutsu.com/
+title: Rowan Chen
+name: Rowan Chen
+handle: rowan-builds
+tagline: Systems engineer and developer-tool maker.
+description: A fictional example developer profile built with Geek Profile.
 repo: https://github.com/hackjutsu/geek-profile
 layout: layouts/base.njk
 ---
 
 ## Profile
-#### Cosmo Qiu
-> An inventor, product maker and problem solver adept at programming
+
+#### Rowan Chen
+
+> A systems engineer and product-minded problem solver who builds dependable developer tools
 
 #### Skills
-- Java (SDK and backend)
-- Javascript/Typescript/C++/Python
-- Anything necessary to get things done (legally and ethically)
 
-## Talks
-- Distributed Location-based Crawler System -- PokemonGo Map(based on mocking data)
-- [How GitHub impacts our career life?](https://www.slideshare.net/WenzheQiu/how-github-impact-our-career-life)
-- [Agile Development based on Kanban](http://hackjutsu.com/2016/02/12/Kanban%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91/)
+- Go, TypeScript, Python, and PostgreSQL
+- Distributed systems, APIs, and event-driven architecture
+- Kubernetes, AWS, Terraform, and observability
+- Technical strategy, mentoring, and incident learning
 
-## GitHub
+## Projects
 
 #### Original
-- [Lepton (~2.7k stars)](https://github.com/hackjutsu/Lepton): Cross-platform snippet/note manager based on GitHub Gist
-- [Pokémon Go Map](https://github.com/hackjutsu/pokemongo-map-poc): Distributed crawler system for PokemonGo map (POC)
-- [HeroCards](https://github.com/hackjutsu/HeroCards): Character Playing Card Maker
-- [GitHub-Ranking-FrontEnd](https://github.com/hackjutsu/Github-Ranking-FrontEnd): Activity ranking for GitHub organization members (Web App)
-- [GitHub-Ranking-Crawler](https://github.com/hackjutsu/Github-Ranking-Crawler): Activity ranking for GitHub organization members (Crawler)
-- [Note it!](https://play.google.com/store/apps/details?id=com.gogocosmo.cosmoqiu.fire_sticker) : Android app for idea collection
-- [OCRize](https://play.google.com/store/apps/details?id=com.owlscoffeehouse.ocrize): Android app for image to text recognition based on OCR(Optical character recognition)
-- [Geek Profile](https://github.com/hackjutsu/geek-profile): Geek profile maker based on Markdown and GitHub Pages
-- [Hexo-Theme-Next (modified)](https://github.com/hackjutsu/hexo-theme-next-modified): Customized theme for Hexo Blog Engine
-- [Awesome Bootstrap](https://github.com/hackjutsu/awesome-bootstrap): Awesome bootstrap scripts for Ubuntu/Vim/vscode/Git/shell 
-- [vim cheatsheet](https://github.com/hackjutsu/vim-cheatsheet): My personal vim cheatsheet
-- [Lorikeet](https://github.com/hackjutsu/Lorikeet): File explorer implemented in NW.js and Electron
+
+- [Atlas Control Plane](https://github.com/example/atlas): Self-service deployment platform with safe defaults and one-click rollbacks
+- [Signalbox](https://github.com/example/signalbox): Observability toolkit for focused production debugging
+- [Fieldnotes](https://github.com/example/fieldnotes): Research workspace with source-grounded summaries and human review
+- [Queue Garden](https://github.com/example/queue-garden): Visual playground for learning event-driven system design
+- [Tiny Bench](https://github.com/example/tiny-bench): Reproducible performance experiments for backend services
 
 #### Contributions
-- [iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next): Elegant theme for Hexo
-- [phonegap/ios-deploy](https://github.com/phonegap/ios-deploy): Install and debug iPhone apps from the command line, without using Xcode
-- [marcbachmann/node-html-pdf](https://github.com/marcbachmann/node-html-pdf): Html to pdf converter in nodejs
-- [weixsong/elasticlunr.js](https://github.com/weixsong/elasticlunr.js): A search engine based on lunr.js, but more flexible and customized
-- [xcatliu/pagic](https://github.com/xcatliu/pagic): The easiest way to generate static html page from markdown
-- [electron/electron-apps](https://github.com/electron/electron-apps): A collection of apps built on Electron
-- [BitTigerInst/FalconCrawler](https://github.com/BitTigerInst/FalconCrawler): Web crawler for zhihu and stackOverflow
-- [BitTigerInst/Project-Markdown-Table-Generator](https://github.com/BitTigerInst/Project-Markdown-Table-Generator): Generate stylish markdown/html tables based JSON
-- [gjk0090/repo-star-checker](https://github.com/gjk0090/repo-star-checker): star-worthy repos recommendation
 
-#### Organizations
-- [Santa Barbara Hackerspace](https://github.com/sbhackerspace)
-- [BitTigerInst](https://github.com/BitTigerInst)
-- [Explorer Guru](https://github.com/Readme-Guru)
+- [OpenTelemetry](https://github.com/open-telemetry): Documentation and instrumentation examples
+- [Kubernetes](https://github.com/kubernetes): Developer experience improvements for local workflows
+- [PostgreSQL](https://github.com/postgres/postgres): Testing and documentation contributions
+
+## Experience
+
+#### Northstar Labs
+
+- Staff Software Engineer, 2022—present
+- Technical lead for a platform group serving product engineering and data teams
+
+#### Common Thread
+
+- Senior Software Engineer, 2019—2022
+- Led a migration from a monolith to an event-driven architecture
+
+#### Tandem Works
+
+- Software Engineer, 2016—2019
+- Shipped customer analytics and an internal design system
 
 ## Contacts
-- [GitHub: hackjutsu](https://github.com/hackjutsu)
-- [StackOverflow: hackjutsu](http://stackoverflow.com/users/3697757/hackjutsu)
-- [Blog: Hackjutsu Dojo](http://hackjutsu.com/)
+
+- [Email: hello@example.com](mailto:hello@example.com)
+- [GitHub: example](https://github.com/example)
+- [LinkedIn: example](https://www.linkedin.com/in/example)
+
+*Rowan Chen is fictional. All companies, projects, and results on this page are synthetic.*
