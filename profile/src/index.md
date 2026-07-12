@@ -1,7 +1,7 @@
 ---
-title: Rowan Chen
-name: Rowan Chen
-handle: rowan-builds
+title: Jordan Blake
+name: Jordan Blake
+handle: jordan-builds
 tagline: Systems engineer and developer-tool maker.
 description: A fictional example developer profile built with Geek Profile.
 repo: https://github.com/hackjutsu/geek-profile
@@ -10,7 +10,9 @@ layout: layouts/base.njk
 
 ## Profile
 
-#### Rowan Chen
+#### Jordan Blake
+
+<img class="profile-avatar" src="./images/jordan-blake.png" alt="Cartoon portrait of the fictional profile owner Jordan Blake">
 
 > A systems engineer and product-minded problem solver who builds dependable developer tools
 
@@ -60,4 +62,4 @@ layout: layouts/base.njk
 - [GitHub: example](https://github.com/example)
 - [LinkedIn: example](https://www.linkedin.com/in/example)
 
-*Rowan Chen is fictional. All companies, projects, and results on this page are synthetic.*
+*Jordan Blake is fictional. All companies, projects, and results on this page are synthetic.*

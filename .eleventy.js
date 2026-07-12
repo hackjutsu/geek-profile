@@ -1,6 +1,7 @@
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
-    "profile/src/css": "css"
+    "profile/src/css": "css",
+    "profile/src/images": "images"
   });
 
   return {
